@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources><array name="config_certifiedBuildProperties"><item>PRODUCT:panther_beta</item><item>DEVICE:panther</item><item>MANUFACTURER:Google</item><item>BRAND:google</item><item>MODEL:Pixel 7</item><item>FINGERPRINT:google/panther_beta/panther:16/BP31.250610.009/13905196:user/release-keys</item><item>ID:BP31.250610.009</item><item>VERSION.INCREMENTAL:13905196</item><item>TYPE:user</item><item>TAGS:release-keys</item><item>VERSION.RELEASE:16/BP31.250610.009/13905196</item><item>VERSION.SECURITY_PATCH:2025-07-05</item><item>VERSION.DEVICE_INITIAL_SDK_INT:32</item></array></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <array name="config_certifiedBuildProperties">
+        <item>PRODUCT:mustang</item>
+        <item>DEVICE:mustang</item>
+        <item>MANUFACTURER:Google</item>
+        <item>BRAND:google</item>
+        <item>MODEL:Pixel 10 Pro XL</item>
+        <item>FINGERPRINT:google/mustang/mustang:16/CP1A.260305.018/14887507:user/release-keys</item>
+        <item>ID:CP1A.260305.018</item>
+        <item>VERSION.INCREMENTAL:14887507</item>
+        <item>TYPE:user</item>
+        <item>TAGS:release-keys</item>
+        <item>VERSION.RELEASE:16</item>
+        <item>VERSION.SECURITY_PATCH:2026-03-05</item>
+        <item>VERSION.DEVICE_INITIAL_SDK_INT:32</item>
+    </array>
+</resources>
